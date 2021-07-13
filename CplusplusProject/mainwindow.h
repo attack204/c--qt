@@ -20,6 +20,7 @@ private slots:
     void on_btnMul_clicked();
     void on_btnDiv_clicked();
     void on_btnCalc_clicked();
+    void on_btnCalcTwo_clicked();
 
 private:
     Ui::MainWindow *ui;
